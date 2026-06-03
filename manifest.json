@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "app.py",
+      "url": "https://raw.githubusercontent.com/TON_USERNAME/wealthtrack-updates/main/app.py"
+    },
+    {
+      "path": "templates/index.html",
+      "url": "https://raw.githubusercontent.com/TON_USERNAME/wealthtrack-updates/main/templates/index.html"
+    }
+  ]
+}
