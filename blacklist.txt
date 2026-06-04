@@ -1,0 +1,4 @@
+# TrackYourWealth - Machine IDs blacklistés
+# Un ID par ligne - ajoutez les anciens Machine IDs lors des migrations
+# Exemple:
+# A3F2B891C4D7E056
