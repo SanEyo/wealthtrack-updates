@@ -1,0 +1,4 @@
+v1.0.0 — Lancement initial
+• Suivi patrimonial complet
+• Graphiques et objectifs
+• 100% local, données privées
